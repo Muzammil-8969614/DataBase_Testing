@@ -662,3 +662,14 @@ The TypeScript interface and implementation provide a structured way to interact
 - *BookRepository*: Contains methods to perform CRUD operations on the Books table.
 
 By using these interfaces and classes, the application can reliably interact with the database, ensuring data integrity and consistency.
+
+## Conclusion
+
+This documentation outlines the comprehensive design and implementation of the Online Bookstore System. The system effectively manages the sale of physical books, e-books, and audiobooks, while integrating features for customers to browse the catalog, make purchases, and leave reviews. Authors and publishers are also seamlessly incorporated into the system.
+
+The database schema is well-structured to ensure data integrity and support efficient transactions. The provided SQL queries fulfill essential business requirements, and the TypeScript interface ensures smooth interaction with the database. This project lays a solid foundation for a robust online bookstore application.
+
+📚 **Thank you for your attention to this documentation.** Should you have any questions or require further assistance, please do not hesitate to reach out.
+
+Happy Reading! 😊
+
